@@ -77,3 +77,8 @@ Once both the backend and frontend are running, you can play the game.
 2. Visit [http://localhost:3000](http://localhost:3000).
 3. Enter a username to start the game.
 4. Enjoy! 🎉
+
+## Deployment
+Frontend: https://emitrr-exploding-kittens-49gj7r6by-pratyakshks-projects.vercel.app
+
+Backend: https://emitrr-exploding-kittens.onrender.com
