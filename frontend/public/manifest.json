@@ -1,0 +1,7 @@
+{
+    "short_name": "KittenGame",
+    "name": "Exploding Kitten Game",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone"
+}
